@@ -40,7 +40,7 @@ function App() {
     <div className="w-[400px] h-[600px] bg-white">
       <div className="p-4 bg-gradient-to-r from-green-600 to-green-700">
         <h1 className="text-white text-xl font-bold mb-4">
-          Google Sheets 関数ヘルパー
+          関数天才くん
         </h1>
         <div className="relative mb-3">
           <input
