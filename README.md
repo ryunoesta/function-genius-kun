@@ -42,7 +42,7 @@ npm run build
 
 ## Chrome拡張機能としてのテスト方法
 
-1. `npm run build` を実行してビルド
+1. `npm run release` を実行
 2. Chrome拡張機能ページ（chrome://extensions/）を開く
 3. デベロッパーモードを有効化
 4. 「パッケージ化されていない拡張機能を読み込む」から `dist` フォルダを選択
